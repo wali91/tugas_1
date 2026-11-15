@@ -2,9 +2,10 @@ import streamlit as st
 
 st.title("Belajar Ilmu pengetahuan Data Engineer")
 st.write(
-    "Pengertian dasar mengenai OLTP & OLAP serta perbedaan diantaranya adalah sebagai berikut :" \
-    "1. OLTP adalah singkatang dari Online Transaction Processing yaitu suatu system yang meproses banyak transaksi dan di proses secara realtime/live streaming. contohnya seperti transfer melalui mobile banking sistem perlu mengurangi saldo rekening pengirim sekaligus memperbarui informasi transaksi." \
-    
+    "Pengertian dasar mengenai OLTP & OLAP serta perbedaan diantaranya adalah sebagai berikut : "
+      \
+    "1. OLTP adalah singkatang dari Online Transaction Processing yaitu suatu system yang meproses banyak transaksi dan di proses secara realtime/live streaming. contohnya seperti transfer melalui mobile banking sistem perlu mengurangi saldo rekening pengirim sekaligus memperbarui informasi transaksi." 
+    \
     "2. OLAP adalah singkatan dari Online Analytical Processing dimana suatu process data multidimensi yang diproses secara batch/dilakukan secara berkala sesuai dengan waktu yang sudah ditentukan terlebih dahulu.contohnya seperti laporan penjualan bulanan,olap digunakan untuk menganailis data yang sudah ada dan untuk mengambil keputusan." \
     
     "perbedaan antara OLTP dan OLAP " \
