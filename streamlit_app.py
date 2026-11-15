@@ -8,24 +8,33 @@ st.write(
     
     "perbedaan antara OLTP dan OLAP " \
     "Tujuan" \
+    
     "OLAP membantu Anda menganalisis data dalam volume besar untuk mendukung pengambilan keputusan." \
     "OLTP membantu Anda mengelola dan memproses transaksi waktu nyata " \
+    
     "Sumber data." \
     "OLAP menggunakan data historis dan agregat dari beberapa sumber." \
     "OLTP menggunakan data waktu nyata dan transaksional dari satu sumber." \
+    
     "Struktur data" \
     "OLAP menggunakan basis data multidimensional (kubus) atau relasional." \
     "OLTP menggunakan basis data relasional." \
+    
     "Model data" \
     "OLAP menggunakan skema bintang, skema kepingan salju, atau model analitik lainnya." \
     "OLTP menggunakan model yang dinormalisasi atau didenormalisasi." \
+    
     "Volume data" \
     "OLAP memiliki persyaratan penyimpanan yang besar. Misalnya, terabita (TB) dan petabita (PB)." \
     "OLTP memiliki persyaratan penyimpanan yang relatif lebih kecil. Misalnya, gigabita (GB)." \
+    
     "Waktu respons" \
     "OLAP memiliki waktu respons yang lebih lama, biasanya dalam detik atau menit." \
     "OLTP memiliki waktu respons yang lebih pendek, biasanya dalam milidetik" \
+    
     "Contoh penerapan" \
     "OLAP baik digunakan untuk menganalisis tren, memprediksi perilaku pelanggan, dan mengidentifikasi profitabilitas." \
     "OLTP baik digunakan untuk memproses pembayaran, manajemen data pelanggan, dan pemrosesan pesanan."
 )
+
+st.image(""C:\Users\WalieyRahman\Pictures\Screenshots\Screenshot 2026-11-15 121701.png"", caption="gambar tugas_1")
