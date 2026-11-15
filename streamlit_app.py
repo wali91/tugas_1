@@ -35,6 +35,6 @@ st.write(
     "Contoh penerapan" \
     "OLAP baik digunakan untuk menganalisis tren, memprediksi perilaku pelanggan, dan mengidentifikasi profitabilitas." \
     "OLTP baik digunakan untuk memproses pembayaran, manajemen data pelanggan, dan pemrosesan pesanan."
-)
+),
 
-st.image(""C:\Users\WalieyRahman\Pictures\Screenshots\Screenshot 2026-11-15 121701.png"", caption="gambar tugas_1")
+st.image("C:\Users\WalieyRahman\Pictures\Screenshots\Screenshot 2026-11-15 121701.png", caption="gambar tugas_1")
